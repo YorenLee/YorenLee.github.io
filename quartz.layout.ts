@@ -10,13 +10,13 @@ export const sharedPageComponents: SharedLayout = {
       provider: "giscus",
       options: {
         // from data-repo
-        repo: "xurenda/xurenda.github.io",
+        repo: "YorenLee/YorenLee.github.io",
         // from data-repo-id
-        repoId: "R_kgDOKxbllQ",
+        repoId: "R_kgDORpNeIQ",
         // from data-category
         category: "Announcements",
         // from data-category-id
-        categoryId: "DIC_kwDOKxbllc4CqFBv",
+        categoryId: "DIC_kwDORpNeIc4C5UOB",
         mapping: "pathname",
         inputPosition: "top",
       },

@@ -15,7 +15,7 @@ const config: QuartzConfig = {
     enablePopovers: true,
     analytics: { provider: "google", tagId: "G-HG2X1LF956" },
     locale: "zh-CN",
-    baseUrl: "xurenda.github.io",
+    baseUrl: "yorenlee.github.io",
     ignorePatterns: [
       ".obsidian",
       ".git",
