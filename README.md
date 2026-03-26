@@ -4,7 +4,7 @@
 
 个人笔记，通过 [Obsidian](https://obsidian.md/) 管理，在线网站由 [GitHub Pages](https://pages.github.com/) 和 [Quartz](https://github.com/jackyzha0/quartz) 提供支持。
 
-GitHub 地址：https://github.com/xurenda/my-notes
+GitHub 地址：https://github.com/YorenLee/note
 
 ## 使用方式
 
@@ -19,4 +19,4 @@ GitHub 地址：https://github.com/xurenda/my-notes
 
 ### 在线网站
 
-[xurenda.github.io](https://xurenda.github.io)
+[yorenlee.github.io](https://yorenlee.github.io/)
